@@ -10,4 +10,4 @@ layout: page
 - Als de kogel je raakt, verlies je een leven en als je geen levens meer hebt ben je af.
 - Zorg dat je eventueel kan herstarten als je af bent.
 
-De oplossing vind je <a href="https://makecode.microbit.org/_6YRXx0CyXWDY" target="_blank">hier</a> ([https://makecode.microbit.org/_6YRXx0CyXWDY]). De code hiervoor kun je ook downloaden: [solutions/microbit-schietspel.hex](solutions/microbit-schietspel.hex).
+De oplossing vind je <a href="https://makecode.microbit.org/_6YRXx0CyXWDY" target="_blank">hier</a>. 

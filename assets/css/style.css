@@ -8,6 +8,34 @@ body {
     padding: 0 2em 2em;
 }
 
+.assignment-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 18px;
+    grid-row-gap: 0px;
+}
+
+.assignment-grid > div {
+    padding: 1em;
+    border-radius: 0.2rem;
+    border: 1px solid darkgray;
+    background-color: #f5f5f5;
+    /* box-shadow: 0 0 0 1px rgba(0,0,0,.05), 0 2px 4px rgba(0,0,0,.1); */
+}
+
+.assignment-grid > div:hover {
+    background-color: lightgray;
+    transition: 0.2s;
+}
+.assignment-grid img { max-width: 100%; }
+.assignment-grid a { 
+    text-decoration: none; 
+    color: inherit;
+}
+
+/* Inline code blocks */
+
 .inlineblock {
     border-radius: 0.2rem;
     white-space: nowrap;
@@ -18,7 +46,122 @@ body {
     font-size: 1em;
 }
 
+.inlineblock.images {
+    background-color: #7600A8 !important;
+    border-color: #6a0097 !important;
+}
+
+.inlineblock.basic {
+    background-color: #1E90FF !important;
+    border-color: #1b82e6 !important;
+}
+
 .inlineblock.input {
     background-color: #D400D4 !important;
     border-color: #bf00bf !important;
+}
+
+.inlineblock.control {
+    background-color: #333333 !important;
+    border-color: #2e2e2e !important;
+}
+
+.inlineblock.led {
+    background-color: #5C2D91 !important;
+    border-color: #532983 !important;
+}
+
+.inlineblock.music {
+    background-color: #E63022 !important;
+    border-color: #cf2b1f !important;
+}
+
+.inlineblock.pins {
+    background-color: #B22222 !important;
+    border-color: #a01f1f !important;
+}
+
+.inlineblock.serial {
+    background-color: #002050 !important;
+    border-color: #001d48 !important;
+}
+
+.inlineblock.game {
+    background-color: #007A4B !important;
+    border-color: #006e44 !important;
+}
+
+.inlineblock.radio {
+    background-color: #E3008C !important;
+    border-color: #cc007e !important;
+}
+
+.inlineblock.loops {
+    background-color: #00AA00 !important;
+    border-color: #009900 !important;
+}
+
+.inlineblock.logic {
+    background-color: #00A4A6 !important;
+    border-color: #009495 !important;
+}
+
+.inlineblock.math {
+    background-color: #9400D3 !important;
+    border-color: #8500be !important;
+}
+
+.inlineblock.variables {
+    background-color: #DC143C !important;
+    border-color: #c61236 !important;
+}
+
+.inlineblock.functions {
+    background-color: #3455DB !important;
+    border-color: #2f4dc5 !important;
+}
+
+.inlineblock.text {
+    background-color: #B8860B !important;
+    border-color: #a6790a !important;
+}
+
+.inlineblock.arrays {
+    background-color: #E65722 !important;
+    border-color: #cf4e1f !important;
+}
+
+.inlineblock.advanced {
+    background-color: #00272B !important;
+    border-color: #002327 !important;
+}
+
+.inlineblock.addpackage {
+    background-color: #717171 !important;
+    border-color: #666666 !important;
+}
+
+.inlineblock.search {
+    background-color: #000 !important;
+    border-color: #000000 !important;
+}
+
+.inlineblock.debug {
+    background-color: #e03030 !important;
+    border-color: #ca2b2b !important;
+}
+
+.inlineblock.default {
+    background-color: #dddddd !important;
+    border-color: #c7c7c7 !important;
+}
+
+.inlineblock.topblocks {
+    background-color: #aa8f00 !important;
+    border-color: #998100 !important;
+}
+
+.inlineblock.recipes {
+    background-color: #717171 !important;
+    border-color: #666666 !important;
 }

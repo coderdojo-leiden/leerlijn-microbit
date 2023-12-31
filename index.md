@@ -20,19 +20,59 @@ Voor het programmeren van de micro:bit ga je in een browser naar <a href="https:
 
 ## Makkelijk
 
-* [Veranderende afbeelding](opdrachten/makkelijk/veranderende-afbeelding.html)
-* [Teleporterende eend](opdrachten/makkelijk/teleporterende-eend.html)
+<div class="assignment-grid">
+    <div>
+        <img src="thumbnails/placeholder.png" />
+        <h3 class="text-center mt-2"><a href="opdrachten/makkelijk/veranderende-afbeelding.html">Veranderende afbeelding</a></h3>
+        <p>Maak je eerste micro:bit programma!</p>
+    </div>
+    <div>
+        <img src="thumbnails/placeholder.png" />
+        <h3><a href="opdrachten/makkelijk/teleporterende-eend.html">Teleporterende eend</a></h3>
+        <p>Laat een eend vliegen met radio</p>
+    </div>
+    <div>
+        <img src="thumbnails/placeholder.png" />
+        <h3>Opdracht komt hier</h3>
+        <p>Hier komt de opdracht beschrijving</p>
+    </div>
+</div>
 
 ## Gemiddeld
 
-* [Kompas](opdrachten/gemiddeld/kompas.html)
-* [Sneeuwbol](opdrachten/gemiddeld/sneeuwbol.html)
-* [Steen, papier, schaar](opdrachten/gemiddeld/steen-papier-schaar.html)
+<div class="assignment-grid">
+    <div>
+        <img src="thumbnails/placeholder.png" />
+        <h3><a href="opdrachten/gemiddeld/kompas.html">Kompas</a></h3>
+        <p>Maak van je micro:bit een kompas</p>
+    </div>
+    <div>
+        <img src="thumbnails/placeholder.png" />
+        <h3><a href="opdrachten/gemiddeld/sneeuwbol.html">Sneeuwbol</a></h3>
+        <p>Schud je micro:bit en laat sneeuwvlokjes vallen</p>
+    </div>
+    <div>
+        <img src="thumbnails/placeholder.png" />
+        <h3><a href="opdrachten/gemiddeld/steen-papier-schaar.html">Steen, papier, schaar</a></h3>
+        <p>Speel steen, papier, schaar tegen je micro:bit</p>
+    </div>
+</div>
 
 ## Extra moeilijk
 
-* [Snake](opdrachten/moeilijk/snake.html)
-* [Schietspel](opdrachten/moeilijk/schietspel.html)
+
+<div class="assignment-grid">
+    <div>
+        <img src="thumbnails/placeholder.png" />
+        <h3><a href="opdrachten/moeilijk/snake.html">Snake spel</a></h3>
+        <p>Maak het klassieke spelletje Snake</p>
+    </div>
+    <div>
+        <img src="thumbnails/placeholder.png" />
+        <h3><a href="opdrachten/moeilijk/schietspel.html">Schietspel</a></h3>
+        <p>Maak een schietspel</p>
+    </div>
+</div>
 
 ### Bronvermelding
 
