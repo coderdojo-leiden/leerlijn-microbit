@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1em;
+    line-height: 1.6;
+    max-width: 50em;
+    padding: 0 2em 2em;
+}
+
+.inlineblock {
+    border-radius: 0.2rem;
+    white-space: nowrap;
+    color: #fff;
+    padding: 0.05rem 0.2rem;
+    background-color: #d83b01;
+    font-family: Monaco, Menlo, Ubuntu Mono, Consolas, source-code-pro, 'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+
+.inlineblock.input {
+    background-color: #D400D4 !important;
+    border-color: #bf00bf !important;
+}
