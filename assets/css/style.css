@@ -8,6 +8,22 @@ body {
     padding: 0 2em 2em;
 }
 
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #191919;
+        color: #fff;
+    }
+
+    .assignment-grid > div {
+        background-color: #191919 !important;
+        border-color: #333 !important;
+    }
+}
+
+img {
+    max-width: 100%;
+}
+
 .assignment-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);

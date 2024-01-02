@@ -1,9 +1,14 @@
 ---
 title: Schietspel
-layout: page
+layout: tutorial
 ---
 
-- Geen uitleg voor deze opdracht :)
+# Hoe werkt het?
+
+Het schietspel speel je met twee micro:bits die draadloos communiceren met elkaar communiceren.
+
+![Het schietspel op twee micro:bits](schietspel.png)
+
 - Zorg dat je kunt bewegen met A&B.
 - Zorg dat je kunt schieten door A en B in te drukken of dat je schudt om te schieten.
 - Zorg dat als je schiet een kogel vooruit gaat en over gaat naar het andere scherm.

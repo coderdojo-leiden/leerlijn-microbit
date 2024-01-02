@@ -12,7 +12,8 @@ layout: default
 
 Deze pagina bevat een aantal opdrachten, waarmee je leert de micro:bit te programmeren.
 
-Voor het programmeren van de micro:bit ga je in een browser naar <a href="https://makecode.microbit.org/#editor" target="_blank">Microsoft MakeCode for micro:bit</a>. (Het kan zijn dat je daarna nog Nederlands als taal moet selecteren.)
+Voor het programmeren van de micro:bit ga je in een browser naar <a href="https://makecode.microbit.org/#editor" target="_blank">Microsoft MakeCode for micro:bit</a> \
+(Het kan zijn dat je daarna nog Nederlands als taal moet selecteren.)
 
 *Zorg ervoor dat je radiokanaal is ingesteld op jouw nummer als je een programma maakt met meerdere micro:bits!*
 
@@ -23,18 +24,18 @@ Voor het programmeren van de micro:bit ga je in een browser naar <a href="https:
 <div class="assignment-grid">
     <div>
         <img src="thumbnails/placeholder.png" />
-        <h3 class="text-center mt-2"><a href="opdrachten/makkelijk/veranderende-afbeelding.html">Veranderende afbeelding</a></h3>
+        <h3><a href="opdrachten/makkelijk/veranderende-afbeelding.html">Veranderende afbeelding</a></h3>
         <p>Maak je eerste micro:bit programma!</p>
     </div>
     <div>
         <img src="thumbnails/placeholder.png" />
-        <h3><a href="opdrachten/makkelijk/teleporterende-eend.html">Teleporterende eend</a></h3>
-        <p>Laat een eend vliegen met radio</p>
+        <h3><a href="opdrachten/makkelijk/stappenteller.html">Stappenteller</a></h3>
+        <p>Verander de micro:bit in een stappenteller</p>
     </div>
     <div>
         <img src="thumbnails/placeholder.png" />
-        <h3>Opdracht komt hier</h3>
-        <p>Hier komt de opdracht beschrijving</p>
+        <h3><a href="opdrachten/makkelijk/dobbelsteen.html">Dobbelsteen</a></h3>
+        <p>Verander de micro:bit in een handige dobbelsteen</p>
     </div>
 </div>
 
@@ -45,6 +46,11 @@ Voor het programmeren van de micro:bit ga je in een browser naar <a href="https:
         <img src="thumbnails/placeholder.png" />
         <h3><a href="opdrachten/gemiddeld/kompas.html">Kompas</a></h3>
         <p>Maak van je micro:bit een kompas</p>
+    </div>
+    <div>
+        <img src="thumbnails/placeholder.png" />
+        <h3><a href="opdrachten/makkelijk/teleporterende-eend.html">Teleporterende eend</a></h3>
+        <p>Laat een eend door de lucht vliegen met radiosignalen</p>
     </div>
     <div>
         <img src="thumbnails/placeholder.png" />
