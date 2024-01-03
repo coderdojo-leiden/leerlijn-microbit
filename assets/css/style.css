@@ -24,12 +24,17 @@ img {
     max-width: 100%;
 }
 
+.tutorial img.thumbnail {
+    float: right; 
+    width: 240px;
+}
+
 .assignment-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: 1fr;
     grid-column-gap: 18px;
-    grid-row-gap: 0px;
+    grid-row-gap: 18px;
 }
 
 .assignment-grid > div {

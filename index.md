@@ -23,17 +23,17 @@ Voor het programmeren van de micro:bit ga je in een browser naar <a href="https:
 
 <div class="assignment-grid">
     <div>
-        <img src="thumbnails/placeholder.png" />
-        <h3><a href="opdrachten/makkelijk/veranderende-afbeelding.html">Veranderende afbeelding</a></h3>
+        <img src="thumbnails/heart.png" />
+        <h3><a href="opdrachten/makkelijk/veranderende-afbeelding.html">Knipperend hart</a></h3>
         <p>Maak je eerste micro:bit programma!</p>
     </div>
     <div>
-        <img src="thumbnails/placeholder.png" />
+        <img src="thumbnails/stepcounter.png" />
         <h3><a href="opdrachten/makkelijk/stappenteller.html">Stappenteller</a></h3>
         <p>Verander de micro:bit in een stappenteller</p>
     </div>
     <div>
-        <img src="thumbnails/placeholder.png" />
+        <img src="thumbnails/dice.png" />
         <h3><a href="opdrachten/makkelijk/dobbelsteen.html">Dobbelsteen</a></h3>
         <p>Verander de micro:bit in een handige dobbelsteen</p>
     </div>
@@ -43,22 +43,22 @@ Voor het programmeren van de micro:bit ga je in een browser naar <a href="https:
 
 <div class="assignment-grid">
     <div>
-        <img src="thumbnails/placeholder.png" />
+        <img src="thumbnails/compass.png" />
         <h3><a href="opdrachten/gemiddeld/kompas.html">Kompas</a></h3>
         <p>Maak van je micro:bit een kompas</p>
     </div>
     <div>
-        <img src="thumbnails/placeholder.png" />
+        <img src="thumbnails/duck.png" />
         <h3><a href="opdrachten/makkelijk/teleporterende-eend.html">Teleporterende eend</a></h3>
         <p>Laat een eend door de lucht vliegen met radiosignalen</p>
     </div>
     <div>
-        <img src="thumbnails/placeholder.png" />
+        <img src="thumbnails/snowglobe.png" />
         <h3><a href="opdrachten/gemiddeld/sneeuwbol.html">Sneeuwbol</a></h3>
         <p>Schud je micro:bit en laat sneeuwvlokjes vallen</p>
     </div>
     <div>
-        <img src="thumbnails/placeholder.png" />
+        <img src="thumbnails/rock-paper-scissors.png" />
         <h3><a href="opdrachten/gemiddeld/steen-papier-schaar.html">Steen, papier, schaar</a></h3>
         <p>Speel steen, papier, schaar tegen je micro:bit</p>
     </div>
@@ -69,12 +69,12 @@ Voor het programmeren van de micro:bit ga je in een browser naar <a href="https:
 
 <div class="assignment-grid">
     <div>
-        <img src="thumbnails/placeholder.png" />
+        <img src="thumbnails/snake.png" />
         <h3><a href="opdrachten/moeilijk/snake.html">Snake spel</a></h3>
         <p>Maak het klassieke spelletje Snake</p>
     </div>
     <div>
-        <img src="thumbnails/placeholder.png" />
+        <img src="thumbnails/shooter.png" />
         <h3><a href="opdrachten/moeilijk/schietspel.html">Schietspel</a></h3>
         <p>Maak een schietspel</p>
     </div>

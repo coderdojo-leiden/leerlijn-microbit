@@ -6,6 +6,14 @@ layout: default
     <a href="../../">&larr; Terug naar de opdrachten</a>
 </nav>
 
-<h1>{{ page.title }}</h1>
+<article class="tutorial">
 
-{{ content }}
+    <h1>{{ page.title }}</h1>
+
+    {% if page.thumbnail %}
+    <img class="thumbnail" src="../../thumbnails/{{ page.thumbnail }}" alt="{{ page.title }}" />
+    {% endif %}
+
+    {{ content }}
+
+</article>
