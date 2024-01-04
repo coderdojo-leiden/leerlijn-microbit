@@ -8,11 +8,26 @@ body {
     padding: 0 2em 2em;
 }
 
+/* Dark Mode Styles */
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #191919;
-        color: #fff;
+        background-color: #1a1a1a; /* Dark background */
+        color: #e6e6e6; /* Light text */
     }
+
+    a {
+        color: #4d90fe; /* A lighter shade of blue for links */
+    }
+
+    a:visited {
+        color: #d7b9ff; /* A soft purple for visited links */
+    }
+
+    a:hover, a:focus {
+        color: #ffcc00; /* A bright color for hover/focus */
+    }
+
+    /* Additional styles for elements like headers, buttons, etc., can be added here */
 
     .assignment-grid > div {
         background-color: #191919 !important;
@@ -26,7 +41,7 @@ img {
 
 .tutorial img.thumbnail {
     float: right; 
-    width: 240px;
+    width: 25%;
 }
 
 .assignment-grid {
