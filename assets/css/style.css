@@ -70,6 +70,10 @@ img {
     color: inherit;
 }
 
+#first-assignment {
+    border: 2px solid green !important;
+}
+
 /* Inline code blocks */
 
 .inlineblock {
@@ -200,4 +204,10 @@ img {
 .inlineblock.recipes {
     background-color: #717171 !important;
     border-color: #666666 !important;
+}
+
+.inlineblock.download {
+    background-color: #63c !important;
+    border: none !important;
+    font-family: inherit !important;
 }

@@ -1,9 +1,10 @@
 ---
 title: "Teleporterende eend"
 layout: tutorial
+thumbnail: duck.png
 ---
 
-Bij deze opdracht gaan we een eend draadloos door de lucht laten vliegen van de ene micro:bit naar de andere! Je hebt twee micro:bit's nodig. Je kunt er nog eentje van ons lenen, of je kunt samenwerken met een klasgenoot.
+Bij deze opdracht ga je een eend draadloos door de lucht laten vliegen van de ene micro:bit naar de andere! Je hebt twee micro:bit's nodig. Je kunt er nog eentje van ons lenen, of je kunt samenwerken met een klasgenoot.
 
 # Hoe werkt het?
 
@@ -20,4 +21,10 @@ De oplossing vind je <a href="https://makecode.microbit.org/_DDLfm62VbLs6" targe
 
 # Verder programmeren
 
+* Onderzoek eens hoe ver je van elkaar vandaan kunt gaan om dit nog te laten werken.
 * Kun je nog meer verschillende dieren laten teleporteren?
+* Wat gebeurt er als meer dan 2 micro:bits dezelfde radiogroep gebruiken? Hoe kun je dit oplossen?
+
+### Bronvermelding
+
+Bron: [micro:bit projects](https://microbit.org/nl/projects/make-it-code-it/teleporting-duck/) (microbit.org).

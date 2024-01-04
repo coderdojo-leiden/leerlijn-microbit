@@ -1,9 +1,10 @@
 ---
 title: Snake
 layout: tutorial
+thumbnail: snake.png
 ---
 
-Het spelletje snake ken je misschien van oude Nokia mobieltjes. :) 
+Het spelletje snake ken je misschien van oude Nokia mobieltjes. Dat kan worden nagemaakt op de micro:bit!
 
 # Hoe werkt het?
 
@@ -11,24 +12,27 @@ In het spel bestuur je een lijn die over het scherm beweegt, dat is de slang. He
 De slang wordt één blokje langer iedere keer dat hij iets eet. Maar de slang mag niet tegen zichzelf botsen, dan is het spel voorbij.
 Wanneer de slang door de rand van het scherm gaat, gaat hij door aan de tegenovergestelde kant van het scherm.
 
-![Snake op een mobieltje](snake-nokia.jpg)
+<p>
+    <img src="snake-nokia.jpg" alt="Snake op een mobieltje" style="width: 49%; padding-right: 1%" />
+    <img src="snake.jpg" alt="Een snake spel op de computer" style="width: 49%;" />
+</p>
 
-![Een ander snake spel](snake.jpg)
+In dit filmpje kun je zien hoe de besturing werkt. Je mag natuurlijk ook je eigen manier van besturen bedenken, als je het linksom/rechtsom draaien op deze manier niet fijn vindt spelen.
+
+![Demonstratie van het snake spel op de micro:bit](snake-demo.gif)
 
 # Maak het
 
 Aangezien dit een moeilijke opdracht is, krijg je wat minder uitleg :)
 
-Je moet een aantal dingen bijhouden in **variabelen**. De belangrijksten zijn:
+Je moet een aantal dingen bijhouden in `variabelen`{: .inlineblock.variables }. De belangrijksten zijn:
 
 * De plek waar het eten ligt (x en y).
-* De plekken van ieder stukje van de slang (x en y). Hier kun je een **lijst** voor gebruiken.
+* De blokjes waar de slang uit bestaat (x en y). Hier kun je een `lijst`{: .inlineblock.variables } voor gebruiken.
 * De richting waar de slang heen gaat.
 
 Om de zoveel tijd moet je de slang een stapje laten zetten.
 Na ieder stapje, controleer je of de slang zichzelf raakt, dan weet je of het _game over_ is.
-
-
 
 Je kunt de knoppen A en B gebruiken om de speler de slang van richting te laten veranderen:
 

@@ -1,6 +1,7 @@
 ---
 title: Kompas
 layout: tutorial
+thumbnail: compass.png
 ---
 
 ## Hoe werkt het?
@@ -12,7 +13,7 @@ Dan heeft de micro:bit genoeg van het magnetisch veld van de Aarde "gevoeld" om 
 
 ## Maak het
 
-Met het blok `kompasrichting (°)`{: .inlineblock.input } uit de `invoer` lade, kunnen we de kompasrichting ophalen. Dat is de richting in graden. De laagste waarde is 0 en de hoogste waarde is 360 graden. Bij 0 wijst de micro:bit precies naar het magnetische noorden.
+Met het blok `kompasrichting (°)`{: .inlineblock.input } uit de `invoer` lade, kun je de kompasrichting ophalen. Dat is de richting in graden. De laagste waarde is 0 en de hoogste waarde is 360 graden. Bij 0 wijst de micro:bit precies naar het magnetische noorden.
 
 ![Een kompasroos, met daarop noord, oost, zuid en west. Het noorden is 0 graden, het oosten is 90 graden, het zuiden is 180 graden en het westen is 270 graden.](kompas.svg)
 
