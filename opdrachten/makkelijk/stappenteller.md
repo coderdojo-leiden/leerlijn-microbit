@@ -18,9 +18,9 @@ Je kunt de micro:bit en het batterijtje vastbinden aan je schoen. Of je kunt hem
 # Maak het
 
 * In je `bij opstarten`{: .inlineblock.basic } blok, zet je een blok `stel stappen in op 0`{: .inlineblock.variables }.
-* Gebruik een `bij schudden`{: .inlineblock.input } blok en zet daarin:
-  * `verander stappen met ...`{: .inlineblock.variable } blok, die het aantal stappen verhoogt met 1
-  * `toon nummer`{: .inlineblock.basic } met de 'stappen' variabele
+* Gebruik een `bij schudden`{: .inlineblock.input } blok en zet daarin...
+* Een `verander stappen met ...`{: .inlineblock.variable } blok, die het aantal stappen verhoogt met 1.
+* Een `toon nummer`{: .inlineblock.basic } blok die de 'stappen' variabele gebruikt.
 
 De oplossing kun je <a href="https://makecode.microbit.org/S90021-35476-74788-26796" target="_blank">hier</a> vinden.
 

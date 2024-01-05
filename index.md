@@ -65,8 +65,9 @@ Voor het programmeren van de micro:bit ga je in een browser naar <a href="https:
     </div>
 </div>
 
-## Extra moeilijk
+## Moeilijk
 
+Deze opdrachten kun je doen als je een echte uitdaging zoekt!
 
 <div class="assignment-grid">
     <div>
@@ -80,6 +81,11 @@ Voor het programmeren van de micro:bit ga je in een browser naar <a href="https:
         <p>Maak het klassieke spelletje Snake</p>
     </div>
 </div>
+
+## Verder
+
+Als je nog meer micro:bit opdrachten zoekt, kijk dan eens naar de 
+[opdrachten op Microbit.org](https://microbit.org/nl/projects/make-it-code-it/)!
 
 ### Bronvermelding
 

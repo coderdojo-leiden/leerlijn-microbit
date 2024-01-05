@@ -16,12 +16,19 @@ Wanneer je de micro:bit schudt, moeten de lichtjes langzamerhand allemaal weer u
 
 Dat kan op 2 manieren gedaan worden:
 
-### De Extra makkelijke manier!
+### 1. De makkelijke manier!
 
 Je kunt een simpele animatie maken die steeds lichtjes weghaalt om een animatie te maken. (Met `toon lichtjes`{: .inlineblock.basic } blokjes.)
 
-### De Iets lastiger maar nog steeds makkelijke manier!
+### 2. De iets lastiger manier!
 
 Je kunt een lus gebruiken om steeds een paar lichtjes uit te doen (met `... keer herhalen`{: .inlineblock.loops } en `wis x ... y ...`{: .inlineblock.led } blokjes).
+Voor de `x` en `y` kun je een willekeurig nummer ophalen met een `kies willekeurig 0 tot 4`{: .inlineblock.math } blok.
+
+Gebruik een `pauzeer (ms) ...`{: .inlineblock.basic } blok om de animatie zo snel/langzaam te laten lopen als jij mooi vindt.
 
 De oplossing kun je <a href="https://makecode.microbit.org/S95917-42214-17744-03311" target="_blank">hier</a> vinden.
+
+# Verder programmeren
+
+* Wat voor animaties zou je nog meer kunnen maken met **lussen** en de blokken `teken x ... y ...`{: .inlineblock.led } `wis x ... y ...`{: .inlineblock.led }?

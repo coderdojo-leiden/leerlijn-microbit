@@ -4,6 +4,8 @@ layout: tutorial
 thumbnail: shooter.png
 ---
 
+**Let op:** dit is een moeilijke opdracht!
+
 # Hoe werkt het?
 
 Het schietspel speel je met twee micro:bits die draadloos communiceren met elkaar communiceren. De spelregels zijn als volgt:

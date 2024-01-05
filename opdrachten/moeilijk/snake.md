@@ -6,6 +6,8 @@ thumbnail: snake.png
 
 Het spelletje snake ken je misschien van oude Nokia mobieltjes. Dat kan worden nagemaakt op de micro:bit!
 
+**Let op:** dit is een moeilijke opdracht!
+
 # Hoe werkt het?
 
 In het spel bestuur je een lijn die over het scherm beweegt, dat is de slang. Het doel is om de slang te laten groeien door hem telkens naar het blokje eten te sturen.
@@ -41,7 +43,7 @@ Je kunt de knoppen A en B gebruiken om de speler de slang van richting te laten 
 
 De oplossing vind je <a href="https://makecode.microbit.org/S07512-61839-99586-38678" target="_blank">hier</a>. 
 
-# Verbeter het
+# Verder programmeren
 
 * Kun je een geluidje toevoegen wanneer het game over is, en de score laten zien?
 * Kun je de slang laten bedienen door de micro:bit te bewegen / te kantelen?
