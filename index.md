@@ -20,6 +20,9 @@ Voor het programmeren van de micro:bit ga je in een browser naar <a href="https:
 
 *De links naar de oplossingen van de opdrachten gaan naar het programma en geven dus "spoilers". Gebruik ze alleen als het je zelf niet lukt om te kijken hoe het wel moet.*
 
+We hebben een mooi [stickervel](https://drive.google.com/file/d/1UTUZS4C3bQWzp1rjuPh9hwE3UaaWRMEV/view?usp=sharing)
+waarmee je kunt bijhouden welke van deze opdrachten je hebt gemaakt!
+
 ## Makkelijk
 
 <div class="assignment-grid">
